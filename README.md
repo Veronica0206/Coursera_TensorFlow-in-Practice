@@ -22,3 +22,24 @@ Introduction to Deep Learning Specialization ([Official Site](https://www.course
 - [Example](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course1/Week4/Course1_Lesson4_example.ipynb)
 
 - [Exercise](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course1/Week4/Course1_Lesson4_exercise.ipynb)
+
+## Course 2. Convolutional Neural Networks in TensorFlow
+### Week 1. Exploring a Larger Dataset
+- [Example](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course2/Week1/Course2_Lesson1_example.ipynb)
+
+- [Exercise](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course2/Week1/Course2_Lesson1_exercise.ipynb)
+
+### Week 2. Augmentation: A technique to avoid overfitting
+- [Example](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course2/Week2/Course2_Lesson2_example.ipynb)
+
+- [Exercise](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course2/Week2/Course2_Lesson2_exercise.ipynb)
+
+### Week 3. Transfer Learning
+- [Example](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course2/Week3/Course2_Lesson3_example.ipynb)
+
+- [Exercise](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course2/Week3/Course2_Lesson3_exercise.ipynb)
+
+### Week 4. Multiclass Classifications
+- [Example](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course2/Week4/Course2_Lesson4_example.ipynb)
+
+- [Exercise](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course2/Week4/Course2_Lesson4_exercise.ipynb)
