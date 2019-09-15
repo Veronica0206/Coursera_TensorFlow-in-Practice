@@ -2,7 +2,7 @@
 
 Introduction to Deep Learning Specialization ([Official Site](https://www.coursera.org/specializations/tensorflow-in-practice))
 
-All codes were tested on Python 3.69 with TensorFlow2.0-Beta1.
+**All codes were tested on Python 3.69 with TensorFlow2.0-Beta1.**
 
 ## Course 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 ### Week 1. A New Programming Paradigm
