@@ -43,3 +43,45 @@ Introduction to Deep Learning Specialization ([Official Site](https://www.course
 - [Example](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course2/Week4/Course2_Lesson4_example.ipynb)
 
 - [Exercise](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course2/Week4/Course2_Lesson4_exercise.ipynb)
+
+## Course 3. Natural Language Processing in TensorFlow
+### Week 1. Sentiment in text
+- [Example](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course3/Week1/Course3_Lesson1_example.ipynb)
+
+- [Exercise](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course3/Week1/Course3_Lesson1_exercise.ipynb)
+
+### Week 2. Word Embeddings
+- [Example](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course3/Week2/Course3_Lesson2_example.ipynb)
+
+- [Exercise](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course3/Week2/Course3_Lesson2_exercise.ipynb)
+
+### Week 3. Sequence models
+- [Example](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course3/Week3/Course3_Lesson3_example.ipynb)
+
+- [Exercise](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course3/Week3/Course3_Lesson3_exercise.ipynb)
+
+### Week 4. Sequence models and literature
+- [Example](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course3/Week4/Course3_Lesson4_example.ipynb)
+
+- [Exercise](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course3/Week4/Course3_Lesson4_exercise.ipynb)
+
+## Course 4. Sequences, Time Series and Prediction
+### Week 1. Sequences and Prediction
+- [Example](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course4/Week1/Course4_Lesson1_example.ipynb)
+
+- [Exercise](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course4/Week1/Course4_Lesson1_exercise.ipynb)
+
+### Week 2. Deep Neural Networks for Time Series
+- [Example](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course4/Week2/Course4_Lesson2_example.ipynb)
+
+- [Exercise](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course4/Week2/Course4_Lesson2_exercise.ipynb)
+
+### Week 3. Recurrent Neural Networks for Time Series
+- [Example](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course4/Week3/Course4_Lesson3_example.ipynb)
+
+- [Exercise](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course4/Week3/Course4_Lesson3_exercise.ipynb)
+
+### Week 4. Real-world time series data
+- [Example](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course4/Week4/Course4_Lesson4_example.ipynb)
+
+- [Exercise](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Course4/Week4/Course4_Lesson4_exercise.ipynb)
