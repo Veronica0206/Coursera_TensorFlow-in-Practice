@@ -1,6 +1,8 @@
 # TensorFlow in Practice (deeplearning.ai)
 
-Introduction to Deep Learning Specialization ([Official Site](https://www.coursera.org/specializations/tensorflow-in-practice))
+[Specialization Information](https://www.coursera.org/specializations/tensorflow-in-practice)
+
+[Certification](https://github.com/Veronica0206/Coursera_TensorFlow-in-Practice/blob/master/Certification.pdf)
 
 **All codes were tested on Python 3.69 with TensorFlow2.0-Beta1.**
 
